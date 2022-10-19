@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "houseofhercules",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+

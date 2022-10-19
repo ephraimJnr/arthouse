@@ -1,0 +1,11 @@
+{    
+     "settings-key": {
+        "setting-1":  true,
+        "setting-2":  "../css/",
+        "setting-3": "> 0.2%, last 1 version"
+    }
+
+    // Open VSCode settings.json
+// At the end of the final entry, add a comma, then add this line:
+"terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
+}
